@@ -19,7 +19,7 @@ This project implements an ensemble machine learning model to predict diabetes b
 
 ## Usage
 1. Clone this repository and upload the `diabetes.csv` dataset.
-2. Open `diabetes_prediction.ipynb` in Google Colab or Jupyter Notebook.
+2. Open `ensemble-prediction-model-for-diabieties.ipynb` in Google Colab or Jupyter Notebook.
 3. Execute all cells to train the model and view the results.
 
 ## Requirements
